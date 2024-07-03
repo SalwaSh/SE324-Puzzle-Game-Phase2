@@ -38,15 +38,15 @@ This project is a puzzle game developed in Java. The application allows users to
    1. navigate to the directory where your .java file is located using the cd command.
      ```
       cd Specification&Design&Implementation
-      ```
+    ```
    2. Run server
-      ```
+   ```
       java PuzzleServer
-      ```
+   ```
    3. Run Client
-        ```
+    ```
         java PuzzleClient
-        ```
+    ```
 
 ## Screenshots 📷
 
